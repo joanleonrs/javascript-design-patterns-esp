@@ -1,5 +1,5 @@
 # Patrones de Diseño en Javascript | DevCode.la
-Material del curso Patrones de Diseño en Javascript usando ES6
+Material del curso Patrones de Diseño en Javascript usando ES6.
 
 ## Requerimientos
 
